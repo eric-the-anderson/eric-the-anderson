@@ -193,6 +193,10 @@ Me chamo Eric Anderson Ferreira, tenho 27 anos, nasci em Belém do Pará mas viv
     src="https://cdn.prod.website-files.com/6108e07db6795265f203a636/61e7c023fc2e226de100b9e2_Shap.png" 
 />
 
+
+<br/>
+<br/>
+
 ---
 
 ### 📂 Meus Repositórios
@@ -202,5 +206,3 @@ Me chamo Eric Anderson Ferreira, tenho 27 anos, nasci em Belém do Pará mas viv
 - [Meu Repositório 3](https://github.com/seu-usuario/repositorio3)
 - [Meu Repositório 4](https://github.com/seu-usuario/repositorio4)
 
-<br/>
-<br/>
