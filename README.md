@@ -2,7 +2,7 @@
 
 **`Cientista de Dados`**
 
-Me chamo Eric Anderson Ferreira, tenho 27 anos, nasci em Belém do Pará mas vivi a maior parte da minha vida em São Paulo e Tocantins. Concluí a graduação de Ciências da Computação pelo IFTO, como residente do projeto CIN/SOFTEX, me especializei em Inteligência Artificial, Engenharia de Software, automação e desenvolvimento pela UFPE, onde também estou finalizando mestrado em Aprendizagem de Máquina (AM) e Mineração de dados (MD), além de exercer o cargo de pesquisador de inovação no projeto CIN/Motorola, aplicando AM e MD em problemas do mundo real. Meu objetivo é atuar com análise e/ou ciência de dados, também estou aberto a realizar processos de engenharia de software, automatizando soluções por meio de desenvolvimento back-end e pipelines. Meu CV e mais informações podem ser visualizadas no meu [perfil linkedin](https://www.linkedin.com/in/eric-ferreira-b44857210/).
+Me chamo Eric Anderson Ferreira, tenho 27 anos, nasci em Belém do Pará mas vivi a maior parte da minha vida em São Paulo e Tocantins. Concluí a graduação de Ciências da Computação pelo IFTO, como residente do projeto CIN/SOFTEX, me especializei em Inteligência Artificial, Engenharia de Software, automação e desenvolvimento pela UFPE, onde também estou finalizando mestrado em Aprendizagem de Máquina e Mineração de dados, aplicando essas abordagens em problemas do mundo real, como pesquisador de inovação no projeto CIN/Motorola. Meu objetivo é atuar com análise e/ou ciência de dados, também estou aberto a realizar processos de engenharia de software, automatizando soluções por meio de desenvolvimento back-end e pipelines. Meu CV e mais informações podem ser visualizadas no meu [perfil linkedin](https://www.linkedin.com/in/eric-ferreira-b44857210/).
 
 ---
 
@@ -175,6 +175,14 @@ Me chamo Eric Anderson Ferreira, tenho 27 anos, nasci em Belém do Pará mas viv
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="OpenCV" 
+    title="OpenCV"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" 
 />
 <img 
     align="left" 
