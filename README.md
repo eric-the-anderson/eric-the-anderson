@@ -193,5 +193,16 @@ Me chamo Eric Anderson Ferreira, tenho 27 anos, nasci em Belém do Pará mas viv
     src="https://cdn.prod.website-files.com/6108e07db6795265f203a636/61e7c023fc2e226de100b9e2_Shap.png" 
 />
 
+<div style="border: 2px solid #4CAF50; padding: 10px; border-radius: 8px; background-color: #f9f9f9;">
+
+### 📂 Meus Repositórios
+
+- [Meu Repositório 1](https://github.com/seu-usuario/repositorio1)
+- [Meu Repositório 2](https://github.com/seu-usuario/repositorio2)
+- [Meu Repositório 3](https://github.com/seu-usuario/repositorio3)
+- [Meu Repositório 4](https://github.com/seu-usuario/repositorio4)
+
+</div>
+
 <br/>
 <br/>
